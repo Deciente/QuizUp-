@@ -17,8 +17,8 @@ public class CheatActivity extends AppCompatActivity {
     public static final String TAG = "CheatActivity";
     private static final String KEY_CHEATED = "index";
     private static boolean mCheated = false;
-    private static final String EXTRA_ANSWER_IS_TRUE = "com.bignerdranch.android.geoquiz.answer_is_true";
-    private static final String EXTRA_ANSWER_SHOWN = "com.bignerdranch.android.geoquiz.answer_shown";
+    private static final String EXTRA_ANSWER_IS_TRUE = "jackwang.QuizUp.answer_is_true";
+    private static final String EXTRA_ANSWER_SHOWN = "jackwang.QuizUp.answer_shown";
     private boolean mAnswerIsTrue;
     private TextView mAnswerTextView;
     private Button mShowAnswer;

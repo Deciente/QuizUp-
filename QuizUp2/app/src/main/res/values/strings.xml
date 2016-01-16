@@ -17,4 +17,8 @@
     <string name="cheat_button">Cheat!</string>
     <string name="judgment_toast">Cheating is wrong.</string>
     <string name="title_activity_cheat">Cheat</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="question_title_hint">Input question here</string>
+    <string name="question_true_label">The answer is True</string>
+    <string name="add_button">Add Question</string>
 </resources>
